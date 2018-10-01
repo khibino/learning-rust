@@ -5,4 +5,4 @@ authors = ["Kei Hibino <ex8k.hibino@gmail.com>"]
 
 [dependencies]
 
-rand = "0.4.0"
+rand = "0.4.3"
